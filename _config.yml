@@ -17,7 +17,7 @@ baseurl: ""
 title: Jay Meil - IBM Certified Data Science Professional
 
 # Short description of your site
-description: Data Science Alchemy An almagamation of information on Applied Maths, Data Science, and Machine Learning. 
+description: Data Science Alchemy- An Almagamation of Information on Applied Maths, Data Science, and Machine Learning. 
 
 # --- Navigation bar options --- #
 
@@ -45,8 +45,8 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
+page-col: "#0000FF"
+link-col: "#FFFFFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -71,16 +71,16 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  #rss: True
-  #email: randomwalkjm@gmail.com
+  rss: True
+  email: randomwalkjm@gmail.com
   #facebook: daattali
   github: RecursiveOuroboros
   twitter: RecursiveOurob1
 #  reddit: yourname
 #  google-plus: +DeanAttali
-   linkedin: https://www.linkedin.com/in/jay-meil-b4731139/
+  linkedin: https://www.linkedin.com/in/jay-meil-b4731139/
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "11326292/recursiveouroboros"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
