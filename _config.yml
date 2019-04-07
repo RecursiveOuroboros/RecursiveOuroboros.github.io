@@ -23,7 +23,7 @@ description: Data Science Alchemy- An Almagamation of Information on Applied Mat
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about me"
   Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
  ##   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -45,7 +45,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "FFFFFF"
+page-col: "E6E6E6"
 link-col: "0000FF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
