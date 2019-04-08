@@ -1,42 +1,43 @@
 # --- General options --- #
+# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://RecursiveOuroboros.github.io"
+url: "https://recursiveouroboros.github.io
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://RecursiveOuroboros.github.io/projectname"
+#url: 'https://username.github.io/projectname'
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Science Alchemy- An Almagamation of Information on Applied Maths, Data Science, and Machine Learning. 
+title: Data Science Alchemy
 
 # Short description of your site
-description: Jay Meil - IBM Certified Data Science Professional  
+description: An Amalgamation of Information on Applied Maths, Data Science, and Machine Learning
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about me"
+  About Me: "aboutme"
   Resources:
- #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
- ##   - Learn markdown: "http://www.markdowntutorial.com/"
- #   - GitHub Pages: "https://pages.github.com/"
-  # Author's home: "http://deanattali.com"
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-  title-img: https://github.com/RecursiveOuroboros/RecursiveOuroboros.github.io/blob/master/Outside%20Jay.jpg
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -63,7 +64,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: 
   name: Jay Meil
 
 # Select your active Social Network Links.
