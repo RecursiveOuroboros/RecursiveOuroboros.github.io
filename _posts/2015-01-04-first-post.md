@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Why Alchemy: Turning Raw Data into Actionable Intelligence
 image: /img/hello_world.jpeg
 ---
 
