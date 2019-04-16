@@ -43,13 +43,13 @@ avatar: "/img/alchemist.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#006600"
+navbar-col: "#425178"
 navbar-text-col: "#D0F0C0"
 navbar-children-col: "#006600"
 page-col: "FAF0E6"
 link-col: "0000FF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#425178"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
